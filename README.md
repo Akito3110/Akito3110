@@ -4,7 +4,7 @@
 
 #### :man_office_worker: About Me
 
-- :telescope: I’m currently learning <a href="https://www.electronjs.org/">Electron</a>.
+- :telescope: I’m currently learning [Svelte](https://svelte.dev/) and [Firebase](https://firebase.google.com/).
 - :bulb: Exploring and learning new technologies and developing software.
 - :mortar_board: Studying Business Informatics - Software Engineering.
 - :briefcase: Java Spring developer.
@@ -13,10 +13,10 @@
 
 #### :hammer_and_pick: Tech Stack
 
-- :computer: `Java` `Python` `C++`
-- :globe_with_meridians: `HTML` `CSS` `JavaScript` `Bootstrap` `TypeScript`
-- :oil_drum: `MySQL` `Oracle` `MsSQL`
-- :wrench: `IntelliJ IDEA` `Visual Studio Code` `GIT`
+- :computer: `Java` `Python` `C++` `Kotlin`
+- :globe_with_meridians: `HTML` `CSS` `JavaScript` `TypeScript` `Svelte`
+- :oil_drum: `MySQL` `Oracle` `MsSQL` `Firebase`
+- :wrench: `IntelliJ IDEA` `Android Studio` `Visual Studio Code` `GIT`
 - :desktop_computer: `Affinity` `GIMP`
 
 ---
@@ -27,7 +27,7 @@
 
 #### :man_office_worker: Über mich
 
-- :telescope: Aktuell lerne ich <a href="https://www.electronjs.org/">Electron</a>.
+- :telescope: Aktuell lerne ich [Svelte](https://svelte.dev/) und [Firebase](https://firebase.google.com/).
 - :bulb: Erforschen und Lernen neuer Technologien sowie Entwickeln von Software.
 - :mortar_board: Studium Wirtschaftsinformatik - Software-Engineering.
 - :briefcase: Java Spring Entwickler.
@@ -36,8 +36,8 @@
 
 #### :hammer_and_pick: Technische Kenntnisse
 
-- :computer: `Java` `Python` `C++`
-- :globe_with_meridians: `HTML` `CSS` `JavaScript` `Bootstrap` `TypeScript`
-- :oil_drum: `MySQL` `Oracle` `MsSQL`
-- :wrench: `IntelliJ IDEA` `Visual Studio Code` `GIT`
+- :computer: `Java` `Python` `C++` `Kotlin`
+- :globe_with_meridians: `HTML` `CSS` `JavaScript` `TypeScript` `Svelte`
+- :oil_drum: `MySQL` `Oracle` `MsSQL` `Firebase`
+- :wrench: `IntelliJ IDEA` `Android Studio` `Visual Studio Code` `GIT`
 - :desktop_computer: `Affinity` `GIMP`
